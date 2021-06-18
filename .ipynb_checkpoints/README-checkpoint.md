@@ -8,7 +8,7 @@
 
 ## Introduction
 
-In this tutorials, we used NEASE in multiple datasets from both healthy and disease cohorts to study the functional impact of alternative splicing.
+In these tutorials, we used NEASE in multiple datasets from both healthy and disease cohorts to study the functional impact of alternative splicing.
 Each notebook covers a single dataset.
 
 
