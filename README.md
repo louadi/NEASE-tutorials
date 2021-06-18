@@ -36,7 +36,7 @@ If you would like to run the tutorial jupyter notebooks, you also need to instal
 1. VastDB analysis:  Neural-specific exons
 ([Notebook](https://github.com/louadi/NEASE-tutorials/blob/main/VastDB-analysis-Neural.ipynb)/[Google Colab](https://colab.research.google.com/github/louadi/NEASE-tutorials/blob/main/VastDB-analysis-Neural.ipynb))
  Muscles-specific exons
-([Notebook](https://github.com/louadi/NEASE-tutorials/blob/main/VastDB-analysis_Muscles.ipynb)/[Google Colab](https://colab.research.google.com/github/louadi/NEASE-tutorials/blob/main/VastDB-analysis_Muscles.ipynbb))
+([Notebook](https://github.com/louadi/NEASE-tutorials/blob/main/VastDB-analysis_Muscles.ipynb)/[Google Colab](https://colab.research.google.com/github/louadi/NEASE-tutorials/blob/main/VastDB-analysis_Muscles.ipynb))
 
 
 
