@@ -24,10 +24,18 @@ To install the package from git:
 
 `pip install .`
 
-If you would like to run the tutorial jupyter notebooks, you also need to install jupyter.
+If you would like to run the tutorial jupyter notebooks, you need to install jupyter.
 
 `pip install jupyterlab`
 
+
+For VastDB analysis, you also need:
+
+`pip install seaborn`
+
+and
+
+`pip install -U scikit-learn`
 
 
 ## Analyses and tutorials
