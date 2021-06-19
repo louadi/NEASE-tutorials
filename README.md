@@ -38,7 +38,7 @@ and
 `pip install -U scikit-learn`
 
 
-## Analyses and tutorials
+## Analysis and tutorials
 
 
 1. VastDB analysis:  Neural-specific exons
