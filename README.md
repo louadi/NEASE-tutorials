@@ -1,5 +1,5 @@
 
-# NEASE-tutorials
+# NEASE Tutorials
 
 [![DOI](https://zenodo.org/badge/357838217.svg)](https://zenodo.org/badge/latestdoi/357838217)
 
