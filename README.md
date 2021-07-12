@@ -29,13 +29,20 @@ If you would like to run the tutorial jupyter notebooks, you need to install jup
 `pip install jupyterlab`
 
 
-For VastDB analysis, you also need:
+For VastDB analysis, you will also need:
 
 `pip install seaborn`
 
 and
 
 `pip install -U scikit-learn`
+
+Download and extract the files into AS data/vastdb
+# The files used can be downloaded from:
+https://zenodo.org/record/5093528/files/vastdb.tar.xz?download=1
+
+# Or from VastDV website:
+https://vastdb.crg.eu/wiki/Downloads
 
 
 ## Analysis and tutorials
