@@ -37,7 +37,7 @@ and
 
 `pip install -U scikit-learn`
 
-Download and extract the files into AS data/vastdb
+Download and extract the files into AS data/VastDB
 
 https://zenodo.org/record/5093528/files/vastdb.tar.xz?download=1
 
