@@ -70,6 +70,11 @@ https://vastdb.crg.eu/wiki/Downloads
 ([Notebook](https://github.com/louadi/NEASE-tutorials/blob/main/Platelet_data.ipynb)/[Google Colab](https://colab.research.google.com/github/louadi/NEASE-tutorials/blob/main/Platelet_data.ipynb))
 
 
+## Cite
+
+If you use NEASE, please cite:
+Louadi Z, Elkjaer ML, Klug M, et al. Functional enrichment of alternative splicing events with NEASE reveals insights into tissue identity and diseases. bioRxiv; 2021. DOI: 10.1101/2021.07.14.452376.
+
 
 
 ## Contact 
