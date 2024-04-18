@@ -77,7 +77,3 @@ If you use NEASE, please cite:
 Louadi, Z., Elkjaer, M.L., Klug, M. et al. Functional enrichment of alternative splicing events with NEASE reveals insights into tissue identity and diseases. Genome Biol 22, 327 (2021). https://doi.org/10.1186/s13059-021-02538-1
 
 
-
-
-## Contact 
-Zakaria Louadi: louadi@wzw.tum.de
